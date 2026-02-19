@@ -1,0 +1,10 @@
+/* Theme variables - Netflix palette */
+:root {
+  --bg-dark: #141414;
+  --bg-card: #1f1f1f;
+  --accent-red: #e50914;
+  --accent-red-hover: #f40612;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-muted: #808080;
+}
